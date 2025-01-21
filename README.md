@@ -1,5 +1,5 @@
 # Fashion
-
+A vibrant fashion website UI , featuring a sleek navigation bar for seamless category browsing (Women, Men, Kids, etc.), a prominent search bar, and user icons for account and wishlist access.
 Snapshots -
 
 ![Screenshot 2024-10-16 151905](https://github.com/user-attachments/assets/66431ef5-4f8b-4539-bfbd-4b2c448a8376)
